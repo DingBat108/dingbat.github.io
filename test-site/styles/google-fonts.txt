@@ -1,0 +1,7 @@
+<link href="https://fonts.googleapis.com/css?family=Fira+Sans|Roboto&display=swap" rel="stylesheet">
+font-family: 'Roboto', sans-serif;
+font-family: 'Fira Sans', sans-serif;
+
+// reference on how to add fonts https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/What_will_your_website_look_like#Text
+// I think that fonts should be kept in a different folder
+// what will your website look like?
